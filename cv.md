@@ -13,3 +13,18 @@
 * Python (basic)
 * Photoshop (basic)
 * Git (basic)
+
+# Code example
+``` a, b, c = int(input()), int(input()), int(input())
+
+d = (min(a, b, c))
+
+e = (max(a, b, c))
+
+print (e)
+
+print ((a+b+c)-(d+e))
+
+print (d) 
+```
+
