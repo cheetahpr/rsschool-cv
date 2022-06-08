@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://cheetahpr.github.io/rsschool-cv/)
